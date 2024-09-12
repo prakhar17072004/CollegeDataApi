@@ -10,10 +10,10 @@ export default function Home() {
      
       <div className=" pt-[200px] w-[300px] ml-[500px] gap-14">
         <h2 className="text-center text-4xl text-blue-600 mb-5 underline">
-      <a href="http://localhost:3000/api/student" target="_blank">Student's Api</a>
+      <a href="/api/student" target="_blank">Student's Api</a>
      </h2>
      <h2 className="text-center text-4xl text-blue-600 underline">
-      <a href="http://localhost:3000/api/teacher" target="_blank">Teacher's Api</a>
+      <a href="/api/teacher" target="_blank">Teacher's Api</a>
      </h2>
       </div>
       
